@@ -31,6 +31,7 @@ In the initial data preparation phase, we performed the following tasks:
 2. Correct the wrong values.
 3. Data cleaning and formatting.
 4. Create Data modelling
+   
 ![Cap 2024-01-29 16-44-45-057](https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/b6b79a40-bb88-4ce1-bfaa-908f2d271a7f)
 
 
