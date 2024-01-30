@@ -39,14 +39,3 @@ In the initial data preparation phase, we performed the following tasks:
 [Go to Download Page- Dashboard](https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/blob/main/Dashboard_Road%20Accident.pbix)
 
 ![Cap 2024-01-29 16-47-09-971](https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/a621e1bf-056b-441b-860e-32128959fce3)
-
-
-
-### Results/Findings
-
-
-### Recommendations
-
-
-### Limitations
-
