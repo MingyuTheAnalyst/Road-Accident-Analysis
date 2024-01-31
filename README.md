@@ -1,7 +1,7 @@
 # Road-Accident-Analysis
 
 ### Project Overview
-
+This project focuses on analyzing road accident data for the years 2021 and 2022 to create a comprehensive dashboard.
 
 ### Data Sources
 
