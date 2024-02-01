@@ -42,17 +42,17 @@ In the initial data preparation phase, we performed the following tasks:
 
 - Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
 
-  <img width="200" alt="Screenshot 2024-01-31 at 10 33 08 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/e498d9eb-1e97-4e87-8bad-053bcf5a459d">
+  <img width="150" alt="Screenshot 2024-01-31 at 10 33 08 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/e498d9eb-1e97-4e87-8bad-053bcf5a459d">
   
-  <img width="200" alt="Screenshot 2024-01-31 at 10 34 29 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/25061004-f71a-4e56-97ef-9d3c45337a30">
+  <img width="150" alt="Screenshot 2024-01-31 at 10 34 29 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/25061004-f71a-4e56-97ef-9d3c45337a30">
 
 - Primary KPI's - Total Casualties by Accident by Accident Severity for Current Year and YoY growth
   
-  <img width="200" alt="Screenshot 2024-01-31 at 10 35 43 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/fc0586e3-52e7-4062-833c-4b0c03d3dd03">
+  <img width="150" alt="Screenshot 2024-01-31 at 10 35 43 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/fc0586e3-52e7-4062-833c-4b0c03d3dd03">
   
-   <img width="200" alt="Screenshot 2024-01-31 at 10 36 03 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/14d5fd32-d92b-481d-ab70-edd31a15a98c">
+   <img width="150" alt="Screenshot 2024-01-31 at 10 36 03 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/14d5fd32-d92b-481d-ab70-edd31a15a98c">
    
-   <img width="200" alt="Screenshot 2024-01-31 at 10 36 13 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/edf6735a-8ac2-44a4-b993-f4bf78f0c0ae">
+   <img width="150" alt="Screenshot 2024-01-31 at 10 36 13 PM" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/edf6735a-8ac2-44a4-b993-f4bf78f0c0ae">
 
 - Secondary KPI's - Total Casualties with respect to vehicle type for Current Year
 
