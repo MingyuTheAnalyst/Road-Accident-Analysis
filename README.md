@@ -1,6 +1,14 @@
 # Road-Accident-Analysis
 
- <img width="600" alt="DASHBOARD" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/18813726-a58a-45c6-88b4-34ece240b09e">
+## Table of Contents
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Tools](#tools)
+ - [Requirement](#requirement)
+ - [Data Cleaning](#data-cleaning)
+ - [Data Visualization](#data-visualization)
+
+ <img width="450" alt="DASHBOARD" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/18813726-a58a-45c6-88b4-34ece240b09e">
  
 ### Project Overview
 This project aims to provide an in-depth analysis of road accident data over two years, 2021 and 2022, culminating in the creation of a comprehensive dashboard. This tool is designed to offer insights into accident trends, severity, and impacts, assisting in data-driven decision-making.
@@ -25,7 +33,7 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 - Total Casualties and Total Accidents by Location
 
 
-### Data Cleaning/Modeling
+### Data Cleaning
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
@@ -36,7 +44,7 @@ In the initial data preparation phase, we performed the following tasks:
 ![Cap 2024-01-29 16-44-45-057](https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/b6b79a40-bb88-4ce1-bfaa-908f2d271a7f)
 
 
-### Data Visualization - Creating Dashboard by Power BI
+### Data Visualization
 [Go to Download Page- Dashboard](https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/blob/main/Dashboard_Road%20Accident.pbix)
 
 ![Cap 2024-01-29 16-47-09-971](https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/a621e1bf-056b-441b-860e-32128959fce3)
