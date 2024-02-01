@@ -1,5 +1,7 @@
 # Road-Accident-Analysis
 
+ <img width="600" alt="DASHBOARD" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/18813726-a58a-45c6-88b4-34ece240b09e">
+ 
 ### Project Overview
 This project focuses on analyzing road accident data for the years 2021 and 2022 to create a comprehensive dashboard.
 
