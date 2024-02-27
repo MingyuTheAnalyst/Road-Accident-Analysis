@@ -1,6 +1,5 @@
 # Road-Accident-Analysis
- <img width="450" alt="DASHBOARD" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/18813726-a58a-45c6-88b4-34ece240b09e">
-
+ 
 ## Table of Contents
  - [Project Overview](#project-overview)
  - [Data Sources](#data-sources)
@@ -9,13 +8,14 @@
  - [Data Cleaning](#data-cleaning)
  - [Data Visualization](#data-visualization)
 
-
- 
 ### Project Overview
 This project aims to provide an in-depth analysis of road accident data over two years, 2021 and 2022, culminating in the creation of a comprehensive dashboard. This tool is designed to offer insights into accident trends, severity, and impacts, assisting in data-driven decision-making.
+
+<img width="600" alt="DASHBOARD" src="https://github.com/MingyuTheAnalyst/Road-Accident-Analysis/assets/88122148/18813726-a58a-45c6-88b4-34ece240b09e">
+
 ### Data Sources
 
-Road Accident Data: The primary dataset for this analysis, covering detailed records of road accidents for the specified years.
+- Road Accident Data: The primary dataset for this analysis, covering detailed records of road accidents for the specified years.
 
 ### Tools
 
